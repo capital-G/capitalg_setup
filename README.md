@@ -8,7 +8,7 @@ Installs tools like vim, zsh and configures those.
 One-Liner
 
 ```shell
-apt-get update && apt-get install git && git clone https://github.com/capital-G/capitalg_setup.git && cd capitalg_setup && ./setup_debian.sh
+sudo apt-get update && sudo apt-get install git && git clone https://github.com/capital-G/capitalg_setup.git && cd capitalg_setup && ./setup_debian.sh
 ```
 
 More explained
