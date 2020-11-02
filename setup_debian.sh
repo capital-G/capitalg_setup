@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "install tools via packet-manager"
-apt-get update & apt-get install -y \
+apt-get update && apt-get install -y \
     curl \
     git \
     zsh \
