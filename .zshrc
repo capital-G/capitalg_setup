@@ -71,12 +71,10 @@ ZSH_THEME="agnoster"
 plugins=(
 git
 dotenv
-osx
 colorize
 docker-compose
 docker
 kubectl
-osx
 pep8
 pip
 pipenv
